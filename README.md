@@ -109,7 +109,7 @@ Em hospedagens estáticas como Netlify, GitHub Pages ou Vercel, basta publicar a
 
 ## Créditos
 
-- Música de fundo: "ocean bubbles frutiger aqua", de 9jackjack8. Confira a licença de uso antes de redistribuir o arquivo.
+- Música de fundo: "ocean bubbles frutiger aqua", de 9jackjack8.
 - Inspiração visual: estética Frutiger Aero e a interface XMB do PSP.
 
 ## Licença
