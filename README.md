@@ -7,13 +7,12 @@ Feito com **HTML, CSS e JavaScript puros**, sem frameworks e sem dependências. 
 **[Ver o app funcionando](https://joyful-cobbler-3b02ea.netlify.app/)**
 
 <p align="center">
-  <img src="docs/inicio-mobile.png" alt="Tela inicial no celular" width="260">
-  <img src="docs/lancamentos-mobile.png" alt="Tela de lançamentos no celular" width="260">
+  <img src="inicio-mobile.png" alt="Tela inicial no celular" width="260">
+  <img src="lancamentos-mobile.png" alt="Tela de lançamentos no celular" width="260">
 </p>
 <p align="center">
-  <img src="docs/inicio-desktop-escuro.png" alt="Tela inicial no computador, tema escuro" width="640">
+  <img src="inicio-escuro.png" alt="Tela inicial no computador, tema escuro" width="640">
 </p>
-
 ## Funcionalidades
 
 **Controle financeiro**
