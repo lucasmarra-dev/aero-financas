@@ -111,7 +111,3 @@ Em hospedagens estáticas como Netlify, GitHub Pages ou Vercel, basta publicar a
 
 - Música de fundo: "ocean bubbles frutiger aqua", de 9jackjack8.
 - Inspiração visual: estética Frutiger Aero e a interface XMB do PSP.
-
-## Licença
-
-Defina a licença do projeto (por exemplo, MIT) antes de publicar.
